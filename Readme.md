@@ -1,0 +1,1 @@
+# Esse arquivo é puramente um teste, para treinar os comandos Git
